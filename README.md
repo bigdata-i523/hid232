@@ -1,15 +1,11 @@
-# Comments
-
-* Mind the ```quotes and do not forget them```. Please do not delete the quotes, and keep the #
-* Remove all sections that you have not yet worked on. 
 
 # Owner
 
 ```
 owner:
-    hid: 000
-    name: Gregor von Laszewski
-    url: https://github.com/bigdata-i523/sample-hid000
+    hid: 232
+    name: Rahul Velayutham
+    url: https://github.com/bigdata-i523/hid232
 ```
 
 # Paper 1
@@ -17,14 +13,12 @@ owner:
 ```
 paper1:
    author: 
-   - Gregor von Laszewski
-   - Fugang Wang
+   - Rahul velayutham
    hid:
-   - 000
-   - 001
-   title: This is my paper about xyz
-   abstract: This paper showcases this and that and the other
-   url: https://github.com/bigdata-i523/sample-hid000/paper1/paper1.pdf
+   - 232
+   title: Big Data Analytics in Sports - Soccer
+   abstract: Big Data Analytics in Sports - Soccer
+   url: https://github.com/bigdata-i523/hid232/paper1/report.pdf
    type: latex
    status: in progress
 ```
