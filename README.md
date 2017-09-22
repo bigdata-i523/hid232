@@ -41,7 +41,7 @@ paper2:
 # Project 
 
 ```
-Project:
+project:
     type:Project
     type:report
     author:
