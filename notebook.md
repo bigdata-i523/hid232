@@ -31,15 +31,25 @@ paper2:
    - Rahul Velayutham
    hid:
    - 232
-   title: 
-   abstract: 
-   url:    
+   title: TBD
+   abstract: TBD
+   url:    TBD
    type: word
    status: in progress
 ```
 
 # Project 
 
+```
+    type:Project
+    type:report
+    author:
+    -Rahul Velayutham
+    hid:
+    -232
+    Title:TBD
+    Abstract:TBD
+```
 
 
 
