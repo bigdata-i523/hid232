@@ -1,54 +1,32 @@
 
-# Owner
+# Logistic
 
 ```
-owner:
-    hid: 232
-    name: Rahul Velayutham
-    url: https://github.com/bigdata-i523/hid232
+* 08/25/17 Read the entire class overview section
+* Created accounts on piazza, github, futuresystems.org and chameleoncloud.org
 ```
 
-# Paper 1
+# Theory
 
 ```
-paper1:
-   author: 
-   - Rahul Velayutham
-   hid:
-   - 232
-   title: Big Data Analytics in Sports - Soccer
-   abstract: Understand how Big data is playing a huge role in Football clubs helping them scout players.
-   url: 
-   type: latex
-   status: in progress
+* 08/29/17 Read the course introduction section
+* 09/02/17 - 09/03/17 Watched videos on Emerging Technologies and Data Deluge
  ```
    
-# Paper 2
+# Practice
 
 ```
-paper2:
-   author: 
-   - Rahul Velayutham
-   hid:
-   - 232
-   title: TBD
-   abstract: TBD
-   url:    TBD
-   type: word
-   status: in progress
+* 09/01/17 Installed the ubuntu virtual machine
+* 09/01/17 Enabled Python 2 and 3 via pyenv on VM
 ```
 
-# Project 
+# Writing
 
 ```
-    type:Project
-    type:report
-    author:
-    -Rahul Velayutham
-    hid:
-    -232
-    Title:TBD
-    Abstract:TBD
+* 09/16/17 Learnt Latex on sharelatex.com
+* 09/16/17 Finalized the topic for Paper 1: Big Data Analytics in Sports - Soccer
+* 09/16/17 Researched and read articles on using Big Data Analytics in Soccer
+* 09/21/17 Started with Paper 1
 ```
 
 
