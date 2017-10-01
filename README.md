@@ -21,6 +21,7 @@ paper1:
    url: https://github.com/bigdata-i523/hid232/paper1/report.pdf
    type: latex
    status: in progress
+   chapter: Sports
 ```
    
 # Paper 2
