@@ -43,9 +43,9 @@
 
 # Weeks with no progress
 
-'''
+```
 * 09/25/17 - 10/1/17: was working on other subjects which had assignments due
-'''
+```
 
 
 
