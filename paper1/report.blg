@@ -1,0 +1,77 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: report.aux
+The style file: ACM-Reference-Format.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: report.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--no number and no volume in Bialik2014
+Warning--page numbers missing in both pages and numpages fields in Bialik2014
+Warning--no number and no volume in cooling
+Warning--page numbers missing in both pages and numpages fields in cooling
+Warning--no number and no volume in learnbigdataanalytics2000
+Warning--page numbers missing in both pages and numpages fields in learnbigdataanalytics2000
+Warning--no number and no volume in 2012
+Warning--page numbers missing in both pages and numpages fields in 2012
+Warning--no number and no volume in Luca20000
+Warning--page numbers missing in both pages and numpages fields in Luca20000
+Warning--no number and no volume in 2000
+Warning--page numbers missing in both pages and numpages fields in 2000
+Warning--no number and no volume in Optasports2000
+Warning--page numbers missing in both pages and numpages fields in Optasports2000
+Warning--no number and no volume in Outsideoftheboot2000
+Warning--page numbers missing in both pages and numpages fields in Outsideoftheboot2000
+Warning--no number and no volume in Ramasamy2000
+Warning--page numbers missing in both pages and numpages fields in Ramasamy2000
+Warning--no number and no volume in Rein2016
+Warning--page numbers missing in both pages and numpages fields in Rein2016
+Warning--no number and no volume in Rejec2000s
+Warning--page numbers missing in both pages and numpages fields in Rejec2000s
+Warning--no number and no volume in Tutorialspoint2000
+Warning--page numbers missing in both pages and numpages fields in Tutorialspoint2000
+Warning--no number and no volume in wikipedia
+Warning--page numbers missing in both pages and numpages fields in wikipedia
+You've used 13 entries,
+            5758 wiz_defined-function locations,
+            1378 strings with 17180 characters,
+and the built_in function-call counts, 25373 in all, are:
+= -- 3986
+> -- 278
+< -- 0
++ -- 64
+- -- 1084
+* -- 1679
+:= -- 2131
+add.period$ -- 65
+call.type$ -- 13
+change.case$ -- 66
+chr.to.int$ -- 13
+cite$ -- 39
+duplicate$ -- 1119
+empty$ -- 820
+format.name$ -- 116
+if$ -- 5324
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 52
+newline$ -- 170
+num.names$ -- 104
+pop$ -- 457
+preamble$ -- 1
+purify$ -- 183
+quote$ -- 0
+skip$ -- 303
+stack$ -- 0
+substring$ -- 4659
+swap$ -- 65
+text.length$ -- 1957
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 208
+warning$ -- 26
+while$ -- 117
+width$ -- 0
+write$ -- 273
+(There were 26 warnings)

@@ -20,7 +20,8 @@ paper1:
    abstract: Big Data Analytics in Sports - Soccer
    url: https://github.com/bigdata-i523/hid232/paper1/report.pdf
    type: latex
-   status: in progress
+   status: in progress ( 99%)
+   
 ```
    
 # Paper 2
