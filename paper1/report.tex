@@ -1,12 +1,22 @@
 \documentclass[sigconf]{acmart}
-
 \input{format/i523}
+
+\usepackage{hyperref}
+\usepackage{float}
+\usepackage{endfloat}
+\renewcommand{\efloatseparator}{\mbox{}} % no new page between figures
+
+\usepackage{graphicx} %package to manage images
 \graphicspath{ {images/} }
 
+
+\usepackage{booktabs} % For formal tables
+
+\settopmatter{printacmref=false} % Removes citation information below abstract
+\renewcommand\footnotetextcopyrightpermission[1]{} % removes footnote with conference information in first column
+\pagestyle{plain} % removes running headers
+
 \begin{document}
-
-
-
 \title{Big Data Analytics in Sports - Soccer}
 
 
@@ -28,18 +38,15 @@
 Big Data is rapidly becoming a crucial component in the majority of the fields, be it from medicine to software. Big data technologies help in processing humongous amounts of data in a rapid manner while enabling us to achieve results fast and accurately. The impact of Big data in the field of sports, in particular, soccer and how they have helped football clubs evolve their business models and operations from a more hands-on approach to applying complex software and ML models to improve tactics, scouting, and training practices. This study takes a look at the technologies that have been used like MiCoach, Tracab and a look at the leading players like Opta and how the data generated from these companies could be put to use. It is hoped that this study will help demonstrate the importance of Big data in sports, its applications, and avenues for improvement in the field.
 \end{abstract}
 
-\keywords{Big Data, Soccer , Scouting}
+\keywords{Big Data, Soccer , Scouting, HID232 ,I523}
 
 \maketitle
 
 \section{Introduction}
 
-
-\section{Big Data in Soccer}
-
 Big Data has become a crucial part of soccer. Data obtained from big data technologies is used to chart training sessions, shape tactics, predict odds for betting and suggest line ups for fantasy premier leagues. Journalists are increasingly using facts obtained from big data to corroborate their stories and often create new stories when normally none could have existed, for example stats may show a player’s ineffective performance could be masked by the good form of the team mates around him. We will now go into a little detail of how all this is done.
 
-
+\section{Big Data in Soccer}
 \subsection{Big Data in Scouting}
 
 \subsubsection{Introduction}
@@ -49,7 +56,7 @@ Two of the biggest commodities in soccer are the clubs and its players. As menti
 \subsubsection{Data collection}
 
 Most clubs either have acquired specific companies for scouting for example Arsenal FC acquired paid over 2 million pounds for the US company StatDNA, whose data has since been used to advise their signings. \cite{Outsideoftheboot2000}, and or have scouts who obtain the data themselves. As to how clubs obtain the data, most do not divulge such details to protect their strategies but consensus is that popular sites like opta which analyze matches at real time and release statistics for others to make use of\cite{Optasports2000}. Alternatively, clubs send performance analysts to feeder clubs and they track matches of prospective candidates and create data for themselves.\newline
-It is also worth noting that big data has led to only to software development but as well as hardware, for example the Adidas MiCoach a device that tracks metrics and displays it to coaches is used during training and potential scouting sessions. The article mentioned provides an example of how the device was used to realize a gem among a batch of superstars\cite{2000}.
+It is also worth noting that big data has led to only to software development but as well as hardware, for example the Adidas MiCoach a device that tracks metrics and displays it to coaches is used during training and potential scouting sessions. The article mentioned provides an example of how the device was used to realize a gem among a batch of superstars.\cite{2000}
 
 \subsubsection{Data Processing}
 
@@ -81,10 +88,17 @@ From this data generated Machine learning models can be applied to look for anom
 
 \subsection{Tools}
 
-In this section, the technological stack and possible tools for implementation are discussed.A candidate big data soccer technological stack for soccer tactics analyses should be organized along several levels.\newline
-\includegraphics[width=8cm, height=8cm]{stack.jpg}
-\cite{Rein2016}
-\newline
+In this section, the technological stack and possible tools for implementation are discussed.A candidate big data soccer technological stack for soccer tactics analyses should be organized along several levels.
+
+\begin{figure}[H]
+    %\centering
+    \includegraphics[scale=0.5]{stack.jpg}
+    \caption{Big Data Technology stack}
+    \label{fig:1}
+    \cite{Rein2016}
+\end{figure}
+
+
 First, the necessary infrastructure to collect the data is required. Second, a storage system is required allowing efficient data storage and access. Finally, a processing pipeline has to be established to extract relevant information from the data and to subsequently merge the information to build an explanatory and/or predictive model\cite{Rein2016}.An in-depth discussion of specific technological solutions is beyond the scope of the present study. A few useful technologies are however discussed, note we will only be discussing the software aspect since the hardware aspects have been discussed in great detail in the previous sections.\newline
 It has previously been stressed upon how difficult it is to obtain the details of technologies clubs use to run their daily operations. However, after dissecting it is not all that difficult to make an educated guess on which tools could possibly be used for the above purposes. Let's start with obtaining data in the previous sections we have already seen how opta obtains its data using live analysis\cite{Bialik2014}. Now we shall explore a new tool called Twitter Heron, which can be used to obtain information from tweets.\newline
 One of the problems with opta is that it may not cover leagues/tiers which are not profitable for it. However, football clubs generally have very enthusiastic fan bases and with Twitter being a very convenient social media tool we can try to mine data from tweets to generate our data. Twitter heron is a real-time analytics platform developed by Twitter. It is the direct successor of Apache Storm, built to be backward compatible with Storm's topology API but with a wide array of architectural improvements. Heron supports Seamless support for different processing semantics, is efficient and scales extremely well. A good blog on why Twitter heron is ideal can be found here.\cite{Ramasamy2000}\newline
