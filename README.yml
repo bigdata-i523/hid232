@@ -1,0 +1,36 @@
+---
+owner:
+    hid: 232
+    name: Rahul Velayutham
+    url: https://github.com/bigdata-i523/hid232
+paper1:
+    abstract: Big Data Analytics in Sports - Soccer
+    author:
+        - Rahul velayutham
+    chapter: Sports
+    hid:
+        - 232
+    status: 2017-10-28 100%
+    title: Big Data Analytics in Sports - Soccer
+    type: latex
+    url: https://github.com/bigdata-i523/hid232/paper1/report.pdf
+paper2:
+    abstract: This paper showcases this and that and the other in regards to abc
+    author:
+        - Gregor von Laszewski
+    hid:
+        - 0
+    status: in progress
+    title: This is my paper about the other abc
+    type: word
+    url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf
+project:
+    abstract: This paper showcases tis and that and the other
+    author:
+        - Gregor von Laszewski
+    pid:
+        - 0
+    status: in progress
+    title: Benchmarking a BigData Docker deployment
+    type: latex
+    url: https://github.com/bigdata-i523/sample-pid000/project/report.pdf
