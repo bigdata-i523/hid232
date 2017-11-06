@@ -9,8 +9,6 @@
   number  = {1},
   pages   = {1},
   month   = jan,
-  issn    = {1},
-  note    = {1},
   url     = {https://en.wikipedia.org/wiki/Rainwater_harvesting},
 }
 
@@ -23,8 +21,6 @@
   number  = {1},
   pages   = {1},
   month   = jan,
-  issn    = {1},
-  note    = {1},
   url     = {http://www.unep.or.jp/ietc/publications/urban/urbanenv-2/9.asp},
 }
 
@@ -37,13 +33,11 @@
   number  = {1},
   pages   = {1},
   month   = jan,
-  issn    = {1},
-  note    = {1},
   url     = {https://www.nasa.gov/feature/goddard/using-nasa-data-to-show-how-raindrops-could-save-rupees},
 }
 
 @Article{RobertO.Ojwang2015,
-  author  = {Robert O. Ojwang , Jörg Dietrich , Prajna Kasargodu Anebagilu , Matthias Beyer and Franz Rottensteiner},
+  author  = {Robert O. Ojwang},
   title   = {Rooftop Rainwater Harvesting for Mombasa: Scenario Development with Image Classification and Water Resources Simulation},
   journal = {Water 2017},
   year    = {2015},
@@ -51,8 +45,6 @@
   number  = {1},
   pages   = {1},
   month   = jan,
-  issn    = {1},
-  note    = {1},
   url     = {http://www.mdpi.com/2073-4441/9/5/359/htm},
 }
 

@@ -13,15 +13,14 @@
 }
 
 @Article{UNEP2017,
-  author  = {UNEP},
-  title   = {rainwater harvesting examples},
-  journal = {http://www.unep.or.jp/ietc/publications/urban/urbanenv-2/9.asp},
-  year    = {2017},
-  volume  = {1},
-  number  = {1},
-  pages   = {1},
-  month   = jan,
-  url     = {http://www.unep.or.jp/ietc/publications/urban/urbanenv-2/9.asp},
+  author = {UNEP},
+  title  = {rainwater harvesting examples},
+  year   = {2017},
+  volume = {1},
+  number = {1},
+  pages  = {1},
+  month  = jan,
+  url    = {http://www.unep.or.jp/ietc/publications/urban/urbanenv-2/9.asp},
 }
 
 @Article{Morrow2015,
