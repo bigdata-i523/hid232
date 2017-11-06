@@ -16,14 +16,15 @@ paper1:
     url: https://github.com/bigdata-i523/hid232/paper1/report.pdf
 paper2:
     review: Nov 6 2017
-    abstract: This paper showcases this and that and the other in regards to abc
+    abstract: 
+    Big Data is rapidly becoming a crucial component in the majority of the fields, be it from medicine to software. Big data technologies help in processing humongous amounts of data in a rapid manner while enabling us to achieve results fast and accurately. Big data is becoming a key player in the restoration of ecological assets like water, forests and the likes. Real time analysis of assets all over the world and the changes are documented and stored how this data can be used and for what purpose is the penultimate question. We dissect the various stages of the rainwater harvesting process and show how the application of big data to each stage can enhance the process. 
     author:
-        - Gregor von Laszewski
+        - Rahul Velayutham
     hid:
-        - 0
-    status: in progress
-    title: This is my paper about the other abc
-    type: word
+        - 232
+    status: 99%
+    title: Big Data in Rain water harvesting
+    type: Latex
     url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf
 project:
     abstract: This paper showcases tis and that and the other
