@@ -1,0 +1,146 @@
+% Encoding: UTF-8
+
+@Article{Cooling,
+  author  = {Julie Cooling},
+  title   = {Investing in Soccer},
+  journal = {na},
+  year    = {na},
+  volume  = {1},
+  number  = {1},
+  pages   = {1},
+  url     = {https://www.forbes.com/sites/juliecooling/2017/03/23/investing-in-soccer/#8b404ce2ec97},
+}
+
+@Article{Wikipedia,
+  author  = {Wikipedia},
+  title   = {Expensive transfers},
+  journal = {na},
+  year    = {na},
+  volume  = {1},
+  number  = {1},
+  pages   = {1},
+  url     = {https://en.wikipedia.org/wiki/List_of_most_expensive_association_football_transfers},
+}
+
+@Article{2012,
+  author  = {Tim lewis},
+  title   = {How computer analysts took over britains top clubs},
+  journal = {guardian},
+  year    = {2012},
+  volume  = {1},
+  number  = {1},
+  pages   = {1},
+  url     = {https://www.theguardian.com/football/2014/mar/09/premier-league-football-clubs-computer-analysts-managers-data-winning},
+}
+
+@Article{Outsideoftheboot2000,
+  author  = {Outsideoftheboot},
+  title   = {An insight into the data analysis of football},
+  journal = {newspaper article},
+  year    = {2000},
+  volume  = {1},
+  number  = {1},
+  pages   = {1},
+  url     = {http://outsideoftheboot.com/2015/09/24/insight-into-data-analysis-in-football/},
+}
+
+@Article{Optasports2000,
+  author  = {Optasports},
+  title   = {generating live time data},
+  journal = {video},
+  year    = {2000},
+  volume  = {1},
+  number  = {1},
+  pages   = {1},
+  url     = {http://www.optasports.com/about/how-we-do-it/how-we-package-the-data.aspx},
+}
+
+@Article{2000,
+  author  = {Wired micoach},
+  title   = {Big Data devices in football},
+  journal = {online article},
+  year    = {2000},
+  volume  = {1},
+  number  = {1},
+  pages   = {1},
+  url     = {https://www.wired.com/2012/09/major-league-socccer-micoach/},
+}
+
+@Article{Luca20000,
+  author  = {Will Luca},
+  title   = {Data Driven Football},
+  journal = {online},
+  year    = {20000},
+  volume  = {1},
+  number  = {1},
+  pages   = {1},
+  url     = {http://data-speaks.luca-d3.com/2017/10/data-driven-football.html},
+}
+
+@Article{Rein2016,
+  author  = {Robert Rein and Daniel Memert},
+  title   = {Big data and tactical analysis in elite soccer: future challenges and opportunities for sports science},
+  journal = {PMC},
+  year    = {2016},
+  volume  = {1},
+  number  = {1},
+  pages   = {1},
+  url     = {https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4996805/},
+}
+
+@Article{Rejec2000s,
+  author  = {Jure Rejec},
+  title   = {How Big Data is Changing the World of Football},
+  journal = {online},
+  year    = {2000s},
+  volume  = {1},
+  number  = {1},
+  pages   = {1},
+  url     = {https://datafloq.com/read/how-big-data-is-changing-the-world-of-football/1796},
+}
+
+@Article{Bialik2014,
+  author  = {Carl Bialik},
+  title   = {The People Tracking Every Touch, Pass And Tackle in the World Cup},
+  journal = {oline},
+  year    = {2014},
+  volume  = {1},
+  number  = {1},
+  pages   = {1},
+  url     = {https://fivethirtyeight.com/features/the-people-tracking-every-touch-pass-and-tackle-in-the-world-cup/},
+}
+
+@Article{Ramasamy2000,
+  author  = {Karthik Ramasamy},
+  title   = {Why Heron?},
+  journal = {online},
+  year    = {2000},
+  volume  = {1},
+  number  = {1},
+  pages   = {1},
+  url     = {https://streaml.io/blog/why-heron},
+}
+
+@Article{Tutorialspoint2000,
+  author  = {Tutorialspoint},
+  title   = {map reduce definition},
+  journal = {online},
+  year    = {2000},
+  volume  = {1},
+  number  = {1},
+  pages   = {1},
+  url     = {https://www.tutorialspoint.com/hadoop/hadoop_mapreduce.htm},
+}
+
+@Article{learnbigdataanalytics2000,
+  author  = {learnbigdataanalytics},
+  title   = {Pig XML parsing},
+  journal = {online},
+  year    = {2000},
+  volume  = {1},
+  number  = {1},
+  pages   = {1},
+  url     = {https://learnbigdataanalytics.wordpress.com/hadoop-eco-systems/pig/practice/xml-parsing/},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
