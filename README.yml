@@ -36,12 +36,12 @@ paper2:
     type: Latex
     url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf
 project:
-    abstract: This paper showcases tis and that and the other
+    abstract: To be provided
     author:
-        - Gregor von Laszewski
-    pid:
-        - 0
-    status: in progress
-    title: Benchmarking a BigData Docker deployment
+        - Rahul Velayutham
+    hid:
+        - 232
+    status: in progress 40%
+    title: Big Data and Hearing Disabilities
     type: latex
     url: https://github.com/bigdata-i523/sample-pid000/project/report.pdf
