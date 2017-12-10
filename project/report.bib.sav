@@ -125,7 +125,7 @@
   number  = {1},
   pages   = {1},
   month   = dec,
-  file    = {:images\\peter nordquist quality assurance in health care based on big data.pdf:PDF},
+  file    = {:images\\peter_nordquis.pdf:PDF},
 }
 
 @Article{Hakkani-Tur2017,
@@ -165,6 +165,56 @@
   month   = dec,
   comment = {accuracy of youtube subtitles},
   url     = {https://medium.com/@mlockrey/youtube-s-incredible-95-accuracy-rate-on-auto-generated-captions-b059924765d5},
+}
+
+@Article{Wikipedia2017a,
+  author  = {Wikipedia},
+  title   = {markov model},
+  journal = {1},
+  year    = {2017},
+  volume  = {1},
+  number  = {1},
+  pages   = {1},
+  month   = dec,
+  comment = {markov model},
+  url     = {https://en.wikipedia.org/wiki/Hidden_Markov_model},
+}
+
+@Article{Pokarna2017,
+  author  = {harsh Pokarna},
+  title   = {neural net images},
+  journal = {jaa},
+  year    = {2017},
+  volume  = {1},
+  number  = {1},
+  pages   = {1},
+  month   = dec,
+  comment = {neural net images},
+  url     = {https://medium.com/technologymadeeasy/for-dummies-the-introduction-to-neural-networks-we-all-need-c50f6012d5eb},
+}
+
+@Article{wikip[edia2017,
+  author  = {wikipedia},
+  title   = {neural nets exolanation},
+  journal = {wiki},
+  year    = {2017},
+  volume  = {1},
+  number  = {1},
+  pages   = {1},
+  month   = dec,
+  url     = {https://en.wikipedia.org/wiki/Artificial_neural_network},
+}
+
+@Article{2017,
+  author  = {Harsh pokarna},
+  title   = {mul;tiple neural networks explained},
+  journal = {medium},
+  year    = {2017},
+  volume  = {1},
+  number  = {1},
+  pages   = {1},
+  month   = dec,
+  url     = {https://medium.com/technologymadeeasy/for-dummies-the-introduction-to-neural-networks-we-all-need-part-2-1218d5dc043},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
