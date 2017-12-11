@@ -38,16 +38,23 @@ paper2:
     chapter: Environment
 project:
     abstract: >
-        Big Data is rapidly becoming a crucial component in the majority of the
-        fields, be it from medicine to software. Big data technologies help in
-        processing humongous amounts of data in a rapid manner while enabling
-        us to achieve results fast and accurately. Big data is becoming a key
-        player in the restoration of ecological assets like water, forests and
-        the likes. Real time analysis of assets all over the world and the
-        changes are documented and stored how this data can be used and for
-        what purpose is the penultimate question. We dissect the various
-        stages of the rainwater harvesting process and show how the
-        application of big data to each stage can enhance the process.
+        Big Data is rapidly becoming a crucial component in the majority
+        of the fields, be it from medicine to software. Big data
+        technologies help in processing humongous amounts of data in a
+        rapid manner while enabling us to achieve results fast and accurately.
+        Hearing disability is a huge problem to the very fabric of society.
+        It causes great discomfort among those who suffer from it and in some
+        extreme cases can cause alienation. Thus there is a need for society
+        to accept the difficulties faced by those are affected with hearing
+        disabilities and enhance the traditional solutions offered with the
+        latest technologies so that they can lead a life without difficulties
+        and live a normal life. The paper shows how the latest big data
+        trends can be applied to existing traditional solutions like hearing
+        aid , captions and also suggests how it can used to proactively
+        avoid situations that could lead to hearing loss. It is hoped that
+        an interest will be generated towards further reserach and
+        implementaion towards combining Big data with hearing
+        difficulty solutions.
     author:
         - Rahul Velayutham
     hid:
