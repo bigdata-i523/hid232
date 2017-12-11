@@ -34,16 +34,26 @@ paper2:
     status: 100%
     title: Big Data in Rain water harvesting
     type: Latex
-    url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf
+    url: https://github.com/bigdata-i523/hid232/paper2/report.pdf
     chapter: Environment
 project:
-    abstract: To be provided
+    abstract: >
+        Big Data is rapidly becoming a crucial component in the majority of the
+        fields, be it from medicine to software. Big data technologies help in
+        processing humongous amounts of data in a rapid manner while enabling
+        us to achieve results fast and accurately. Big data is becoming a key
+        player in the restoration of ecological assets like water, forests and
+        the likes. Real time analysis of assets all over the world and the
+        changes are documented and stored how this data can be used and for
+        what purpose is the penultimate question. We dissect the various
+        stages of the rainwater harvesting process and show how the
+        application of big data to each stage can enhance the process.
     author:
         - Rahul Velayutham
     hid:
         - 232
-    status: in progress 40%
+    status: in progress 90%
     title: Big Data and Hearing Disabilities
-    type: latex
-    url: https://github.com/bigdata-i523/sample-pid000/project/report.pdf
+    type: paper
+    url: https://github.com/bigdata-i523/hid232/project
     chapter: Health
