@@ -277,4 +277,40 @@
   url     = {https://www.mayoclinic.org/diseases-conditions/meningitis/symptoms-causes/syc-20350508},
 }
 
+@Article{Richardson1997,
+  author  = {Dr Martin Richardson},
+  title   = {Hearing loss during bacterial meningitis},
+  journal = {BMJ: British Medical Journal},
+  year    = {1997},
+  volume  = {1},
+  number  = {1},
+  pages   = {1},
+  month   = dec,
+  url     = {http://adc.bmj.com/content/76/2/134},
+}
+
+@Article{NIHCD2017,
+  author  = {NIHCD},
+  title   = {explanations on hearing aids},
+  journal = {NIHCD},
+  year    = {2017},
+  volume  = {1},
+  number  = {1},
+  pages   = {1},
+  month   = dec,
+  url     = {https://www.nidcd.nih.gov/health/hearing-aids},
+}
+
+@Article{2017b,
+  author  = {Wikipedia pattern recog},
+  title   = {pattern Recognition},
+  journal = {wikipedia},
+  year    = {2017},
+  volume  = {1},
+  number  = {1},
+  pages   = {1},
+  month   = dec,
+  url     = {https://en.wikipedia.org/wiki/Pattern_recognition},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
