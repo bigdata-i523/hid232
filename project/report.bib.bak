@@ -253,4 +253,28 @@
   url     = {https://en.wikipedia.org/wiki/Watson_(computer)},
 }
 
+@Article{NIDCD2017,
+  author  = {NIDCD},
+  title   = {noise induced hearing loss},
+  journal = {nidcd},
+  year    = {2017},
+  volume  = {1},
+  number  = {1},
+  pages   = {1},
+  month   = dec,
+  url     = {https://www.nidcd.nih.gov/health/noise-induced-hearing-loss},
+}
+
+@Article{mayoclinic2017,
+  author  = {mayo clinic},
+  title   = {meningitis},
+  journal = {mayo clinic},
+  year    = {2017},
+  volume  = {1},
+  number  = {1},
+  pages   = {1},
+  month   = dec,
+  url     = {https://www.mayoclinic.org/diseases-conditions/meningitis/symptoms-causes/syc-20350508},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
