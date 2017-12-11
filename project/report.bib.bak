@@ -194,7 +194,7 @@
 }
 
 @Article{wikip[edia2017,
-  author  = {wikip[edia},
+  author  = {wikipedia},
   title   = {neural nets exolanation},
   journal = {wiki},
   year    = {2017},
@@ -215,6 +215,42 @@
   pages   = {1},
   month   = dec,
   url     = {https://medium.com/technologymadeeasy/for-dummies-the-introduction-to-neural-networks-we-all-need-part-2-1218d5dc043},
+}
+
+@Article{2017a,
+  author  = {Adam gegitgey},
+  title   = {Machine Learning is Fun Part 6: How to do Speech Recognition with Deep Learning},
+  journal = {medium},
+  year    = {2017},
+  volume  = {1},
+  number  = {1},
+  pages   = {1},
+  month   = dec,
+  url     = {https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a},
+}
+
+@Article{Massachi2017,
+  author  = {Adam Massachi},
+  title   = {Closed Captioning Provided by … Watson!},
+  journal = {medium},
+  year    = {2017},
+  volume  = {1},
+  number  = {1},
+  pages   = {1},
+  month   = dec,
+  url     = {https://medium.com/ibm-data-science-experience/closed-captioning-provided-by-watson-89c244e3de6},
+}
+
+@Article{Wkipedia2017ibm,
+  author  = {Wkipedia},
+  title   = {About Watson IBM},
+  journal = {wikipedia},
+  year    = {2017},
+  volume  = {1},
+  number  = {1},
+  pages   = {1},
+  month   = dec,
+  url     = {https://en.wikipedia.org/wiki/Watson_(computer)},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
