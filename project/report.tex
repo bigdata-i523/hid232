@@ -71,7 +71,7 @@ Hearing aids are a fairly popular solution among most age groups and users use t
 
 The working of hearing aids was covered in detail in the previous section now we shall focus on the areas where big data can be applied to help both the doctors and the patients as much as possible. We know that in order to determine the extent of hearing loss an audiometry test will be performed. The test proceeds with a patient being made to sit in a soundproof room and being subjected to listening to a wide variety of sounds ranging from the softest possible sound they can perceive to the loudest possible. The audiologist then charts a graph to figure out the extent of hearing loss. It will look like the below graph shown as per the figure  \ref{f:audiometrygraph}.
 \begin{figure}[!ht]
-  \centering\includegraphics[width=\columnwidth]{images/audiometerygraph.jpg}
+  \centering\includegraphics[width=\columnwidth]{images/Menieres.jpg}
   \caption{audiometry graph}\label{f:audiometrygraph}
 \end{figure}  
 The problem with this process is it's still random and despite audiologists having great skill and lowering the margin as much as possible they can never be totally accurate nor can they test too much because it is physically demanding on the patient too. Big data can be a great help here. Data collected from multiple patients (with their consent) can be stored making use of technologies like apache pig , hive etc. Then when an initial audiometry analysis has been performed we can use deep learning or simple statistical sampling to obtain a few similar cases via technologies like say apache-spark. From these cases, we can perform a more streamlined audiometry test rather than guesswork and further accurately narrow down the loss coefficients. 
