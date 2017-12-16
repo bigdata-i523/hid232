@@ -12,7 +12,6 @@ paper1:
         - 232
     status: 2017-10-29 100%
     title: Big Data Analytics in Sports - Soccer
-    type: latex
     url: https://github.com/bigdata-i523/hid232/paper1/report.pdf
 paper2:
     review: Nov 6 2017
@@ -33,7 +32,6 @@ paper2:
         - 232
     status: 100%
     title: Big Data in Rain water harvesting
-    type: Latex
     url: https://github.com/bigdata-i523/hid232/paper2/report.pdf
     chapter: Environment
 project:
